@@ -29,7 +29,7 @@ ci-demo/
 ### Test Suite
 - **Example Tests**: Basic tests navigating playwright.dev
 - **E2E Tests**: Product search automation on automationpractice.pl
-- Tests run in Chromium browser (Firefox and WebKit available but commented out)
+- Tests are configured to run in Chromium browser by default
 
 ### CI/CD Pipeline
 The GitHub Actions workflow automatically:
